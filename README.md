@@ -24,7 +24,7 @@ The goal was to set up a production-like cloud monitoring environment using stan
 - **GitHub** – Source control
 
 ---
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](./screenshots/uptimepro-dashboard.png)
 
 ## 📦 Architecture Overview
 
